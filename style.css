@@ -101,7 +101,7 @@ section {
 }
 #contact {
     background: linear-gradient(135deg, #89f7fe, #66a6ff);
-    color: white;
+    color: black;
 }
 #contact h2, #contact p {
     position: relative;
